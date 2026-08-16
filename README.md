@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bitu-k64/dsa_repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Bitu-k64/dsa_repo/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Bitu-k64/dsa_repo/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Bitu-k64/dsa_repo/tree/master/0189-rotate-array) |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bitu-k64/dsa_repo/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Bitu-k64/dsa_repo/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Bitu-k64/dsa_repo/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bitu-k64/dsa_repo/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Bitu-k64/dsa_repo/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bitu-k64/dsa_repo/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Bitu-k64/dsa_repo/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
