@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Bitu-k64/dsa_repo/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Bitu-k64/dsa_repo/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bitu-k64/dsa_repo/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,9 +66,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Bitu-k64/dsa_repo/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Bitu-k64/dsa_repo/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bitu-k64/dsa_repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Bitu-k64/dsa_repo/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Bitu-k64/dsa_repo/tree/master/0680-valid-palindrome-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bitu-k64/dsa_repo/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bitu-k64/dsa_repo/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
