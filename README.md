@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bitu-k64/dsa_repo/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Bitu-k64/dsa_repo/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Bitu-k64/dsa_repo/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Bitu-k64/dsa_repo/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bitu-k64/dsa_repo/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Bitu-k64/dsa_repo/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
