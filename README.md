@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bitu-k64/dsa_repo/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Bitu-k64/dsa_repo/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bitu-k64/dsa_repo/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Bitu-k64/dsa_repo/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Bitu-k64/dsa_repo/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Bitu-k64/dsa_repo/tree/master/0680-valid-palindrome-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Bitu-k64/dsa_repo/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Bitu-k64/dsa_repo/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bitu-k64/dsa_repo/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Bitu-k64/dsa_repo/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bitu-k64/dsa_repo/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Bitu-k64/dsa_repo/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bitu-k64/dsa_repo/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Bitu-k64/dsa_repo/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Bitu-k64/dsa_repo/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -108,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Bitu-k64/dsa_repo/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bitu-k64/dsa_repo/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
